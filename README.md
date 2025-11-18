@@ -122,11 +122,11 @@ int main() {
 ## OUTPUT
 $ ./sem.o 
 
-![Alt text](image.png)
+![Alt text](<Screenshot at 2025-11-18 17-13-15.png>)
 
 $ ipcs
 
-![Alt text](image-1.png)
+![Alt text](image-2.png)
 
 
 
